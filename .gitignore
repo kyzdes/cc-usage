@@ -1,0 +1,13 @@
+.env
+.DS_Store
+
+# Folders to ignore at root level
+cc-usage-plugin/
+claude-usage-widget-main/
+.superset/
+PLAN.md
+
+# Docs and plans inside cc-usage-improved (keep only README)
+cc-usage-improved/docs/
+cc-usage-improved/dist/
+cc-usage-improved/.git_backup/
