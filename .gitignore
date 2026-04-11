@@ -5,7 +5,16 @@
 cc-usage-plugin/
 claude-usage-widget-main/
 .superset/
+.superpowers/
 PLAN.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
 
 # Docs and plans inside cc-usage-improved (keep only README)
 cc-usage-improved/docs/
