@@ -6,6 +6,30 @@
         <description>Updates for CC Usage Viewer</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.1</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>CC Usage Viewer 1.0.1</h2>
+                <ul>
+                    <li>Added app icon</li>
+                    <li>Native sidebar with translucent background</li>
+                    <li>Styled DMG installer</li>
+                    <li>Sparkle auto-update framework</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Sun, 12 Apr 2026 14:34:46 +0300</pubDate>
+            <enclosure
+                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.1/CCUsageViewer.zip"
+                length="3265726"
+                type="application/octet-stream"
+                sparkle:edSignature="fpXkAW0fjS7O1y8VGKDbJ+vjWP6F7mFZyq0h8uHOb1o1JJ3ftICI0IF4DWV3Z9k14tM2kg8yi4d9xVVWB4PmDw=="
+            />
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
