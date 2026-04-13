@@ -6,6 +6,28 @@
         <description>Updates for CC Usage Viewer</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.4</title>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>CC Usage Viewer 1.0.4</h2>
+                <ul>
+                    <li>Sentry crash reporting and error tracking</li>
+                    <li>All errors automatically reported with context</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 13 Apr 2026 17:59:10 +0300</pubDate>
+            <enclosure
+                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.4/CCUsageViewer.zip"
+                length="4483102"
+                type="application/octet-stream"
+                sparkle:edSignature="gS9skJfX/LNjXkH09gTbcnN1UKD+HiQOJId7o68ShP7guDvXgoAGX9I+8DaZrwChbst5lnx+fU+0SQ3lEgWZBQ=="
+            />
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.0.3</title>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
@@ -24,28 +46,6 @@
                 length="3268904"
                 type="application/octet-stream"
                 sparkle:edSignature="V45+Z8VaCxo147472GYJiqD1g3quOR5GlgM53jO/cbqEMbs+AOS6Yk6ITnwrdrp1lX+y4sw+tEWrjJUTDoxnCw=="
-            />
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        </item>
-        <item>
-            <title>Version 1.0.2</title>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>CC Usage Viewer 1.0.2</h2>
-                <ul>
-                    <li>Fix crash on launch on macOS 26</li>
-                    <li>Safer Sparkle updater initialization</li>
-                </ul>
-                ]]>
-            </description>
-            <pubDate>Mon, 13 Apr 2026 09:59:34 +0300</pubDate>
-            <enclosure
-                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.2/CCUsageViewer.zip"
-                length="3268122"
-                type="application/octet-stream"
-                sparkle:edSignature="uyshUTeY9e1LalvqLimJxxij/PM7X4lYF7pqGTolQP0miBEc6RwGE3qJ9Rj8KE1HBqQhUk+aKb1cWRrNEKs+Bg=="
             />
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
         </item>
