@@ -6,6 +6,28 @@
         <description>Updates for CC Usage Viewer</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.5</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>CC Usage Viewer 1.0.5</h2>
+                <ul>
+                    <li>Auth funnel tracking</li>
+                    <li>Extended error reporting and metrics</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 13 Apr 2026 18:13:32 +0300</pubDate>
+            <enclosure
+                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.5/CCUsageViewer.zip"
+                length="4488102"
+                type="application/octet-stream"
+                sparkle:edSignature="D2gG/Yfv92OYLn5NeylsXyEfQOOXSBt+XySLpmwBwdfM+JIeZ5tdPUVpFhbF2lDNheRTIP20vHchbnfwIlzbBQ=="
+            />
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.0.4</title>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
@@ -14,7 +36,6 @@
                 <h2>CC Usage Viewer 1.0.4</h2>
                 <ul>
                     <li>Sentry crash reporting and error tracking</li>
-                    <li>All errors automatically reported with context</li>
                 </ul>
                 ]]>
             </description>
@@ -24,28 +45,6 @@
                 length="4483102"
                 type="application/octet-stream"
                 sparkle:edSignature="gS9skJfX/LNjXkH09gTbcnN1UKD+HiQOJId7o68ShP7guDvXgoAGX9I+8DaZrwChbst5lnx+fU+0SQ3lEgWZBQ=="
-            />
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        </item>
-        <item>
-            <title>Version 1.0.3</title>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>CC Usage Viewer 1.0.3</h2>
-                <ul>
-                    <li>App no longer requires Claude Code CLI</li>
-                    <li>Clear login prompt when not connected</li>
-                </ul>
-                ]]>
-            </description>
-            <pubDate>Mon, 13 Apr 2026 12:16:38 +0300</pubDate>
-            <enclosure
-                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.3/CCUsageViewer.zip"
-                length="3268904"
-                type="application/octet-stream"
-                sparkle:edSignature="V45+Z8VaCxo147472GYJiqD1g3quOR5GlgM53jO/cbqEMbs+AOS6Yk6ITnwrdrp1lX+y4sw+tEWrjJUTDoxnCw=="
             />
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
         </item>
