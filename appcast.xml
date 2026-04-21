@@ -6,6 +6,28 @@
         <description>Updates for CC Usage Viewer</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.7</title>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>CC Usage Viewer 1.0.7</h2>
+                <ul>
+                    <li>Removed the "Usage Insights" card from the Overview tab — signals now live in the richer Analytics tab</li>
+                    <li>Under-the-hood refinements</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 21 Apr 2026 19:42:42 +0300</pubDate>
+            <enclosure
+                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.7/CCUsageViewer.zip"
+                length="4757118"
+                type="application/octet-stream"
+                sparkle:edSignature="COvOR0Ns67hoay7oZC/GNzwWyqZ/b4HMmR6ToT9C094vyR+sVBB4gYxSUMmeEup9U2eX0UH2isu9uUvxe3V/DA=="
+            />
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.0.6</title>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
