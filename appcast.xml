@@ -23,10 +23,10 @@
             </description>
             <pubDate>Wed, 29 Apr 2026 12:00:09 +0300</pubDate>
             <enclosure
-                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.10/CCUsageViewer.zip"
-                length="4758914"
+                url="https://github.com/kyzdes/claude-usage/releases/download/v1.0.10/CCUsageViewer.zip"
+                length="4758935"
                 type="application/octet-stream"
-                sparkle:edSignature="YeqBNdbMph7vKdlNrlDBuE5VJEnMk7q3B+McStYR8qipMDSZAxY60PVyl299Fchd/KhD1Rkl05pqHu88B1UXBQ=="
+                sparkle:edSignature="cb0s71A5bH1MqYeIKyXFxkUlxubj5xjpTOq69A7tsMemMEkFB+lVxKD32MBqLeYgTyL7MMCQE+rWTIXQ21Q8Aw=="
             />
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
         </item>
@@ -45,7 +45,7 @@
             </description>
             <pubDate>Tue, 21 Apr 2026 19:42:42 +0300</pubDate>
             <enclosure
-                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.7/CCUsageViewer.zip"
+                url="https://github.com/kyzdes/claude-usage/releases/download/v1.0.7/CCUsageViewer.zip"
                 length="4757118"
                 type="application/octet-stream"
                 sparkle:edSignature="COvOR0Ns67hoay7oZC/GNzwWyqZ/b4HMmR6ToT9C094vyR+sVBB4gYxSUMmeEup9U2eX0UH2isu9uUvxe3V/DA=="
@@ -68,7 +68,7 @@
             </description>
             <pubDate>Mon, 13 Apr 2026 18:29:02 +0300</pubDate>
             <enclosure
-                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.6/CCUsageViewer.zip"
+                url="https://github.com/kyzdes/claude-usage/releases/download/v1.0.6/CCUsageViewer.zip"
                 length="4503011"
                 type="application/octet-stream"
                 sparkle:edSignature="kW/IB0Y+bEgw2FfcRdj3dfYB4PVaKdXVP63Ku2QX90bMln5ousbY4FRaMsgyTp3L9MWgK/SF2bSe+lMuEhTHBA=="
@@ -90,7 +90,7 @@
             </description>
             <pubDate>Mon, 13 Apr 2026 18:13:32 +0300</pubDate>
             <enclosure
-                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.5/CCUsageViewer.zip"
+                url="https://github.com/kyzdes/claude-usage/releases/download/v1.0.5/CCUsageViewer.zip"
                 length="4488102"
                 type="application/octet-stream"
                 sparkle:edSignature="D2gG/Yfv92OYLn5NeylsXyEfQOOXSBt+XySLpmwBwdfM+JIeZ5tdPUVpFhbF2lDNheRTIP20vHchbnfwIlzbBQ=="
