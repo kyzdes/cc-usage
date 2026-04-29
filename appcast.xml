@@ -6,6 +6,31 @@
         <description>Updates for CC Usage Viewer</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.10</title>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>CC Usage Viewer 1.0.10</h2>
+                <ul>
+                    <li>Rebuilt Analytics dashboard — insights, weekly pacing, model mix, peak-usage windows, consistency score, source split</li>
+                    <li>Resilient Claude.ai login — survives Cloudflare challenges via a hidden WebKit bridge and restores existing browser sessions</li>
+                    <li>Unified user-facing errors with clear recovery steps</li>
+                    <li>Fixed truncated "100%" label in the menu bar widget</li>
+                    <li>Product telemetry foundation for refresh, tab and settings events</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 29 Apr 2026 12:00:09 +0300</pubDate>
+            <enclosure
+                url="https://github.com/kyzdes/cc-usage/releases/download/v1.0.10/CCUsageViewer.zip"
+                length="4758914"
+                type="application/octet-stream"
+                sparkle:edSignature="YeqBNdbMph7vKdlNrlDBuE5VJEnMk7q3B+McStYR8qipMDSZAxY60PVyl299Fchd/KhD1Rkl05pqHu88B1UXBQ=="
+            />
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.0.7</title>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
