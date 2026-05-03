@@ -7,6 +7,7 @@ claude-usage-widget-main/
 .superset/
 .superpowers/
 PLAN.md
+_pitch-deck/
 
 # Python
 __pycache__/
