@@ -1,11 +1,12 @@
 .env
-.DS_Store
+**/.DS_Store
 
 # Folders to ignore at root level
 cc-usage-plugin/
 claude-usage-widget-main/
 .superset/
 .superpowers/
+.pytest_cache/
 PLAN.md
 _pitch-deck/
 
@@ -17,7 +18,7 @@ __pycache__/
 node_modules/
 dist/
 
-# Docs and plans inside cc-usage-improved (keep only README)
-cc-usage-improved/docs/
-cc-usage-improved/dist/
-cc-usage-improved/.git_backup/
+# macOS build artefacts
+cc-usage-macos/dist/
+cc-usage-macos/build/
+cc-usage-macos/.git_backup/
